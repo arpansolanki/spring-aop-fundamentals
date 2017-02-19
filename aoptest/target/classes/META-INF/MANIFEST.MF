@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: aoptest
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Arpan Solanki
+Implementation-Vendor-Id: com.experientgroup
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/spring/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
